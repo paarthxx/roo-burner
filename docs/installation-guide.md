@@ -14,7 +14,7 @@ Global installation makes the mode available across all projects and workspaces.
 #### Step 1: Locate Configuration File
 Navigate to your global custom modes file:
 ```bash
-~/Library/Application Support/Code/User/globalStorage/ai-for-devs-community.apple-roo-code/settings/custom_modes.yaml
+~/Library/Application Support/Code/User/roo-code/settings/custom_modes.yaml
 ```
 
 #### Step 2: Add Mode Configuration
