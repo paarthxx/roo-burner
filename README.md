@@ -26,7 +26,7 @@ A comprehensive Burning Man preparation and participation expert mode for Roo Co
 1. Copy the mode configuration from [`modes/burner-expert.yaml`](./modes/burner-expert.yaml)
 2. Add it to your global custom modes file:
    ```
-   ~/Library/Application Support/Code/User/globalStorage/ai-for-devs-community.apple-roo-code/settings/custom_modes.yaml
+   ~/Library/Application Support/Code/User/roo-code/settings/custom_modes.yaml
    ```
 3. Restart Roo Code
 4. Select "🔥 Burner Expert" from the mode menu
