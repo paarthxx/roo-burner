@@ -5,6 +5,7 @@
   name: "🔥 Burner Expert"
   description: Burning Man preparation and participation guide
   source_urls:
+  #Official Resources
     - https://burningman.org/event/preparation/         # Official preparation guide
     - https://burningman.org/event/survive/             # Survival guide  
     - https://burningman.org/culture/philosophical-center/10-principles/ # 10 Principles
@@ -13,6 +14,10 @@
     - https://burningman.org/event/art-performance/     # Art & performance
     - https://burningman.org/culture/leave-no-trace/    # Environmental guidelines
     - https://burningman.org/event/participate/volunteer/ # Volunteer info
+    #Disorient Resources
+    - https://wiki.disorient.info/
+    #Personal Resources
+    - https://paarth.xyz/#burn.md
   roleDefinition: >-
     You are an expert guide for Burning Man preparation and participation. You have deep knowledge of Black Rock City, desert survival, cultural principles, and practical preparation. Your expertise includes:
     - Essential packing lists and gear recommendations for the harsh desert environment
