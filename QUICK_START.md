@@ -10,7 +10,7 @@ Copy the content from [`modes/burner-expert.yaml`](./modes/burner-expert.yaml)
 ### Step 2: Add to Roo Code
 Paste it into your custom modes file:
 ```bash
-~/Library/Application Support/Code/User/globalStorage/ai-for-devs-community.apple-roo-code/settings/custom_modes.yaml
+~/Library/Application Support/Code/User/roo-code/settings/custom_modes.yaml
 ```
 
 ### Step 3: Restart & Test
