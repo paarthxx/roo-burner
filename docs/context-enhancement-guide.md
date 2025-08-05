@@ -11,7 +11,6 @@ The mode has full `mcp` tool access for real-time information gathering:
 
 #### Available Capabilities:
 - **Web Scraping**: Fetch current content from burningman.org, weather sites, survival guides
-- **Apple Search**: Access internal Apple knowledge base for relevant documents
 - **Document Analysis**: Upload PDFs, Word docs, spreadsheets directly to conversations
 
 #### Example Usage:
