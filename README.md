@@ -1,4 +1,4 @@
-# 🔥 Roo Burner Expert Mode
+# 🔥 Burner Expert: A Roo Code Mode
 
 A comprehensive Burning Man preparation and participation expert mode for Roo Code, providing deep knowledge of Black Rock City, desert survival, cultural principles, and practical preparation.
 
