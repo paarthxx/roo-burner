@@ -1,8 +1,8 @@
-# 🔥 Burner Expert: A Roo Code Mode
+# Burner Expert: A Roo Code Mode
 
-A comprehensive Burning Man preparation and participation expert mode for Roo Code, providing deep knowledge of Black Rock City, desert survival, cultural principles, and practical preparation.
-
-## 🌟 Features
+A comprehensive Burning Man preparation and participation expert mode for Roo Code, providing deep knowledge of Black Rock City, desert survival, cultural principles, and practical preparation.  
+<br>
+## Features
 
 ### Expert Knowledge Areas
 - **Desert Survival**: Essential techniques and safety protocols for extreme conditions
@@ -20,7 +20,16 @@ A comprehensive Burning Man preparation and participation expert mode for Roo Co
 - Provide safety guidance prioritizing Leave No Trace principles
 - Cultural education emphasizing radical self-reliance and community participation
 
-## 🚀 Installation
+
+<br>
+
+## Installation
+
+### Prerequisites
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code)
+- Web Scraper MCP (eg. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser))
+   - See [here]() for how to install
+
 
 ### Method 1: Global Installation (Recommended)
 1. Copy the mode configuration from [`modes/burner-expert.yaml`](./modes/burner-expert.yaml)
@@ -35,7 +44,10 @@ A comprehensive Burning Man preparation and participation expert mode for Roo Co
 1. Copy [`modes/burner-expert.yaml`](./modes/burner-expert.yaml) to your project root as `.roomodes`
 2. Restart Roo Code
 
-## 📚 Documentation
+
+<br>
+
+## Documentation
 
 - **[Mode Configuration](./modes/burner-expert.yaml)** - Complete YAML configuration
 - **[Installation Guide](./docs/installation-guide.md)** - Detailed setup instructions
@@ -43,7 +55,10 @@ A comprehensive Burning Man preparation and participation expert mode for Roo Co
 - **[Source URLs Configuration](./docs/source-urls-guide.md)** - Managing reference URLs
 - **[Usage Examples](./docs/usage-examples.md)** - Common use cases and questions
 
-## 🏜️ Quick Start Examples
+
+<br>
+
+## Quick Start Examples
 
 ### Creating Packing Lists
 ```
@@ -69,7 +84,9 @@ A comprehensive Burning Man preparation and participation expert mode for Roo Co
 "What medical supplies should I bring to the desert?"
 ```
 
-## 🔧 Configuration Details
+<br>
+
+## Configuration Details
 
 The mode includes comprehensive source URLs covering:
 - Official Burning Man preparation guides
@@ -78,7 +95,10 @@ The mode includes comprehensive source URLs covering:
 - Art installation and participation guides
 - Environmental responsibility resources
 
-## 🤝 Contributing
+
+<br>
+
+## Contributing
 
 We welcome contributions to improve the Burner Expert mode:
 
@@ -95,7 +115,10 @@ We welcome contributions to improve the Burner Expert mode:
 - Regional Burning Man event adaptations
 - Accessibility and inclusion improvements
 
-## 🏜️ The 10 Principles
+
+<br>
+
+## The 10 Principles
 
 This mode embodies Burning Man's core principles:
 1. **Radical Inclusion** - Welcoming all participants
@@ -109,26 +132,32 @@ This mode embodies Burning Man's core principles:
 9. **Participation** - Active engagement over passive consumption
 10. **Immediacy** - Living in the present moment
 
-## 📄 License
+
+<br>
+
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+<br>
 
-- **Burning Man Organization** for creating this transformative cultural experience
-- **Black Rock City community** for sharing knowledge and wisdom
+## Acknowledgments
+
 - **Roo Code team** for providing the extensible mode system
-- **Desert survival experts** and veteran burners who contributed knowledge
+- **Veteran Burners** who contributed knowledge
 
-## 🔗 Related Resources
+
+<br>
+
+## Related Resources
 
 - [Official Burning Man Website](https://burningman.org/)
 - [Survival Guide](https://survival.burningman.org/)
 - [ePlaya Community Forum](https://eplaya.burningman.org/)
-- [Roo Code Documentation](https://docs.roo-code.com/)
+- [Roo Code Documentation](https://docs.roocode.com/)
 
 ---
 
-**Welcome home!** 🏜️✨
+**Welcome home!**
 
 *This mode prioritizes safety, environmental responsibility, and meaningful community participation while providing comprehensive preparation guidance for the transformative Burning Man experience.*
