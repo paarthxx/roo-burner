@@ -57,3 +57,4 @@ _site/
 # Test Files
 test-output/
 *.test
+.roo/mcp.json
