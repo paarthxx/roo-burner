@@ -323,5 +323,3 @@ If you encounter issues or have improvements to this installation guide:
 - ✅ Node.js 18+
 - ✅ VS Code with MCP client
 - ✅ pnpm package manager
-
-*Last updated: January 2025*
