@@ -28,7 +28,7 @@ A comprehensive Burning Man preparation and participation expert mode for Roo Co
 ### Prerequisites
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code)
 - Web Scraper MCP (eg. [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser))
-   - See [here]() for how to install
+   - See [here](https://github.com/paarthxx/roo-burner/blob/main/BROWSER_MCP_INSTALLATION.md) for how to install
 
 
 ### Method 1: Global Installation (Recommended)
